@@ -58,6 +58,8 @@ def get_all():
             html_params = urllib.parse.urlencode(html_params)
             print(f"{HTML_URL}?{html_params}")
             print(f"Difference:{REAL_PRICE(details[1]) - REAL_PRICE(details[0])}")
+            current = int(details[0]['auction']['currentPrice']) / 10 ** 18
+            print(f"Cheapest one price: {current}")
         print("Request end")
         print("-------------------------------")
         time.sleep(3)
