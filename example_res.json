@@ -1,0 +1,1370 @@
+{
+  "data": {
+	"axies": {
+	  "total": 17,
+	  "results": [
+		{
+		  "id": "4876591",
+		  "genes": "0xa0000000042cb222082308c40c2010420c6330020880284c0cc330c6048408c2",
+		  "stats": {
+			"hp": 53,
+			"morale": 39,
+			"skill": 27,
+			"speed": 45
+		  },
+		  "name": "SUSTAIN - DISABLER",
+		  "stage": 4,
+		  "class": "Dusk",
+		  "breedCount": 3,
+		  "image": "https://storage.googleapis.com/assets.axieinfinity.com/axies/4876591/axie/axie-full-transparent.png",
+		  "title": "",
+		  "battleInfo": {
+			"banned": false,
+			"__typename": "AxieBattleInfo"
+		  },
+		  "auction": {
+			"currentPrice": "119000000000000000",
+			"currentPriceUSD": "550.65",
+			"startingPrice": "119000000000000000",
+			"endingPrice": "119000000000000000",
+			"duration": "86400",
+			"timeLeft": "0",
+			"__typename": "Auction"
+		  },
+		  "parts": [
+			{
+			  "id": "eyes-mavis",
+			  "name": "Mavis",
+			  "class": "Bird",
+			  "type": "Eyes",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "ears-rosa",
+			  "name": "Rosa",
+			  "class": "Plant",
+			  "type": "Ears",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "back-pumpkin",
+			  "name": "Pumpkin",
+			  "class": "Plant",
+			  "type": "Back",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "mouth-serious",
+			  "name": "Serious",
+			  "class": "Plant",
+			  "type": "Mouth",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "horn-kestrel",
+			  "name": "Kestrel",
+			  "class": "Bird",
+			  "type": "Horn",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "tail-gravel-ant",
+			  "name": "Gravel Ant",
+			  "class": "Bug",
+			  "type": "Tail",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			}
+		  ],
+		  "__typename": "Axie"
+		},
+		{
+		  "id": "8036131",
+		  "genes": "0xa0000000041453330882114414a028c2148211480880308810c2190a0483300a",
+		  "stats": {
+			"hp": 51,
+			"morale": 36,
+			"skill": 27,
+			"speed": 50
+		  },
+		  "name": "NEW DISABLESAUR 50 SPD",
+		  "stage": 4,
+		  "class": "Dusk",
+		  "breedCount": 0,
+		  "image": "https://storage.googleapis.com/assets.axieinfinity.com/axies/8036131/axie/axie-full-transparent.png",
+		  "title": "",
+		  "battleInfo": {
+			"banned": false,
+			"__typename": "AxieBattleInfo"
+		  },
+		  "auction": {
+			"currentPrice": "127999000000000000",
+			"currentPriceUSD": "592.30",
+			"startingPrice": "127999000000000000",
+			"endingPrice": "127999000000000000",
+			"duration": "86400",
+			"timeLeft": "0",
+			"__typename": "Auction"
+		  },
+		  "parts": [
+			{
+			  "id": "eyes-little-owl",
+			  "name": "Little Owl",
+			  "class": "Bird",
+			  "type": "Eyes",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "ears-small-frill",
+			  "name": "Small Frill",
+			  "class": "Reptile",
+			  "type": "Ears",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "back-perch",
+			  "name": "Perch",
+			  "class": "Aquatic",
+			  "type": "Back",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "mouth-tiny-turtle",
+			  "name": "Tiny Turtle",
+			  "class": "Reptile",
+			  "type": "Mouth",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "horn-kestrel",
+			  "name": "Kestrel",
+			  "class": "Bird",
+			  "type": "Horn",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "tail-gravel-ant",
+			  "name": "Gravel Ant",
+			  "class": "Bug",
+			  "type": "Tail",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			}
+		  ],
+		  "__typename": "Axie"
+		},
+		{
+		  "id": "7740006",
+		  "genes": "0xa00000000628132314a52842102508420021194408831946044430440485314c",
+		  "stats": {
+			"hp": 49,
+			"morale": 41,
+			"skill": 27,
+			"speed": 47
+		  },
+		  "name": "yat carry",
+		  "stage": 4,
+		  "class": "Dusk",
+		  "breedCount": 0,
+		  "image": "https://storage.googleapis.com/assets.axieinfinity.com/axies/7740006/axie/axie-full-transparent.png",
+		  "title": "",
+		  "battleInfo": {
+			"banned": false,
+			"__typename": "AxieBattleInfo"
+		  },
+		  "auction": {
+			"currentPrice": "130000000000000000",
+			"currentPriceUSD": "601.56",
+			"startingPrice": "130000000000000000",
+			"endingPrice": "130000000000000000",
+			"duration": "86400",
+			"timeLeft": "0",
+			"__typename": "Auction"
+		  },
+		  "parts": [
+			{
+			  "id": "eyes-topaz",
+			  "name": "Topaz",
+			  "class": "Reptile",
+			  "type": "Eyes",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "ears-nyan",
+			  "name": "Nyan",
+			  "class": "Beast",
+			  "type": "Ears",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "back-garish-worm",
+			  "name": "Garish Worm",
+			  "class": "Bug",
+			  "type": "Back",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "mouth-lam",
+			  "name": "Lam",
+			  "class": "Aquatic",
+			  "type": "Mouth",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "horn-kestrel",
+			  "name": "Kestrel",
+			  "class": "Bird",
+			  "type": "Horn",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "tail-gravel-ant",
+			  "name": "Gravel Ant",
+			  "class": "Bug",
+			  "type": "Tail",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			}
+		  ],
+		  "__typename": "Axie"
+		},
+		{
+		  "id": "8439381",
+		  "genes": "0xa0000000051453331084280214a5294a10c5090c0882208814651946048330cc",
+		  "stats": {
+			"hp": 52,
+			"morale": 35,
+			"skill": 27,
+			"speed": 50
+		  },
+		  "name": "fastest antitermi",
+		  "stage": 4,
+		  "class": "Dusk",
+		  "breedCount": 4,
+		  "image": "https://storage.googleapis.com/assets.axieinfinity.com/axies/8439381/axie/axie-full-transparent.png",
+		  "title": "",
+		  "battleInfo": {
+			"banned": false,
+			"__typename": "AxieBattleInfo"
+		  },
+		  "auction": {
+			"currentPrice": "144385474537037037",
+			"currentPriceUSD": "668.12",
+			"startingPrice": "150000000000000000",
+			"endingPrice": "65000000000000000",
+			"duration": "172800",
+			"timeLeft": "161386",
+			"__typename": "Auction"
+		  },
+		  "parts": [
+			{
+			  "id": "eyes-gero",
+			  "name": "Gero",
+			  "class": "Aquatic",
+			  "type": "Eyes",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "ears-seaslug",
+			  "name": "Seaslug",
+			  "class": "Aquatic",
+			  "type": "Ears",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "back-green-thorns",
+			  "name": "Green Thorns",
+			  "class": "Reptile",
+			  "type": "Back",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "mouth-tiny-turtle",
+			  "name": "Tiny Turtle",
+			  "class": "Reptile",
+			  "type": "Mouth",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "horn-kestrel",
+			  "name": "Kestrel",
+			  "class": "Bird",
+			  "type": "Horn",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "tail-gravel-ant",
+			  "name": "Gravel Ant",
+			  "class": "Bug",
+			  "type": "Tail",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			}
+		  ],
+		  "__typename": "Axie"
+		},
+		{
+		  "id": "7886530",
+		  "genes": "0xa0000000021453230845110814a5294a0c6011460882214a14651888048120cc",
+		  "stats": {
+			"hp": 53,
+			"morale": 37,
+			"skill": 27,
+			"speed": 47
+		  },
+		  "name": "2K MMR 47 SP DOUBLE DISABLE",
+		  "stage": 4,
+		  "class": "Dusk",
+		  "breedCount": 2,
+		  "image": "https://storage.googleapis.com/assets.axieinfinity.com/axies/7886530/axie/axie-full-transparent.png",
+		  "title": "",
+		  "battleInfo": {
+			"banned": false,
+			"__typename": "AxieBattleInfo"
+		  },
+		  "auction": {
+			"currentPrice": "160000000000000000",
+			"currentPriceUSD": "740.38",
+			"startingPrice": "160000000000000000",
+			"endingPrice": "160000000000000000",
+			"duration": "86400",
+			"timeLeft": "0",
+			"__typename": "Auction"
+		  },
+		  "parts": [
+			{
+			  "id": "eyes-lucas",
+			  "name": "Lucas",
+			  "class": "Bird",
+			  "type": "Eyes",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "ears-rosa",
+			  "name": "Rosa",
+			  "class": "Plant",
+			  "type": "Ears",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "back-green-thorns",
+			  "name": "Green Thorns",
+			  "class": "Reptile",
+			  "type": "Back",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "mouth-tiny-turtle",
+			  "name": "Tiny Turtle",
+			  "class": "Reptile",
+			  "type": "Mouth",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "horn-kestrel",
+			  "name": "Kestrel",
+			  "class": "Bird",
+			  "type": "Horn",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "tail-gravel-ant",
+			  "name": "Gravel Ant",
+			  "class": "Bug",
+			  "type": "Tail",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			}
+		  ],
+		  "__typename": "Axie"
+		},
+		{
+		  "id": "7678222",
+		  "genes": "0xa00000000418143300a4100a14a020c2106311440885194a0445294c0485314c",
+		  "stats": {
+			"hp": 49,
+			"morale": 41,
+			"skill": 27,
+			"speed": 47
+		  },
+		  "name": "Axie #7678222",
+		  "stage": 4,
+		  "class": "Dusk",
+		  "breedCount": 0,
+		  "image": "https://storage.googleapis.com/assets.axieinfinity.com/axies/7678222/axie/axie-full-transparent.png",
+		  "title": "",
+		  "battleInfo": {
+			"banned": false,
+			"__typename": "AxieBattleInfo"
+		  },
+		  "auction": {
+			"currentPrice": "180000000000000000",
+			"currentPriceUSD": "832.92",
+			"startingPrice": "180000000000000000",
+			"endingPrice": "180000000000000000",
+			"duration": "86400",
+			"timeLeft": "0",
+			"__typename": "Auction"
+		  },
+		  "parts": [
+			{
+			  "id": "eyes-chubby",
+			  "name": "Chubby",
+			  "class": "Beast",
+			  "type": "Eyes",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "ears-bubblemaker",
+			  "name": "Bubblemaker",
+			  "class": "Aquatic",
+			  "type": "Ears",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "back-garish-worm",
+			  "name": "Garish Worm",
+			  "class": "Bug",
+			  "type": "Back",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "mouth-tiny-turtle",
+			  "name": "Tiny Turtle",
+			  "class": "Reptile",
+			  "type": "Mouth",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "horn-kestrel",
+			  "name": "Kestrel",
+			  "class": "Bird",
+			  "type": "Horn",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "tail-gravel-ant",
+			  "name": "Gravel Ant",
+			  "class": "Bug",
+			  "type": "Tail",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			}
+		  ],
+		  "__typename": "Axie"
+		},
+		{
+		  "id": "7013948",
+		  "genes": "0xa0000000050823230884114414a5294a08c509460885088814651946048408cc",
+		  "stats": {
+			"hp": 50,
+			"morale": 37,
+			"skill": 27,
+			"speed": 50
+		  },
+		  "name": "superfast anti TERMINATOR",
+		  "stage": 4,
+		  "class": "Dusk",
+		  "breedCount": 3,
+		  "image": "https://storage.googleapis.com/assets.axieinfinity.com/axies/7013948/axie/axie-full-transparent.png",
+		  "title": "",
+		  "battleInfo": {
+			"banned": false,
+			"__typename": "AxieBattleInfo"
+		  },
+		  "auction": {
+			"currentPrice": "200000000000000000",
+			"currentPriceUSD": "925.47",
+			"startingPrice": "200000000000000000",
+			"endingPrice": "200000000000000000",
+			"duration": "86400",
+			"timeLeft": "0",
+			"__typename": "Auction"
+		  },
+		  "parts": [
+			{
+			  "id": "eyes-little-owl",
+			  "name": "Little Owl",
+			  "class": "Bird",
+			  "type": "Eyes",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "ears-risky-bird",
+			  "name": "Risky Bird",
+			  "class": "Bird",
+			  "type": "Ears",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "back-green-thorns",
+			  "name": "Green Thorns",
+			  "class": "Reptile",
+			  "type": "Back",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "mouth-tiny-turtle",
+			  "name": "Tiny Turtle",
+			  "class": "Reptile",
+			  "type": "Mouth",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "horn-kestrel",
+			  "name": "Kestrel",
+			  "class": "Bird",
+			  "type": "Horn",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "tail-gravel-ant",
+			  "name": "Gravel Ant",
+			  "class": "Bug",
+			  "type": "Tail",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			}
+		  ],
+		  "__typename": "Axie"
+		},
+		{
+		  "id": "5738587",
+		  "genes": "0xa00000000b146232082328c20c2028840c41290a088218ca0cc1110a04830848",
+		  "stats": {
+			"hp": 53,
+			"morale": 39,
+			"skill": 27,
+			"speed": 45
+		  },
+		  "name": "Axie #5738587",
+		  "stage": 4,
+		  "class": "Dusk",
+		  "breedCount": 0,
+		  "image": "https://storage.googleapis.com/assets.axieinfinity.com/axies/5738587/axie/axie-full-transparent.png",
+		  "title": "",
+		  "battleInfo": {
+			"banned": false,
+			"__typename": "AxieBattleInfo"
+		  },
+		  "auction": {
+			"currentPrice": "200000000000000000",
+			"currentPriceUSD": "925.47",
+			"startingPrice": "200000000000000000",
+			"endingPrice": "200000000000000000",
+			"duration": "86400",
+			"timeLeft": "0",
+			"__typename": "Auction"
+		  },
+		  "parts": [
+			{
+			  "id": "eyes-mavis",
+			  "name": "Mavis",
+			  "class": "Bird",
+			  "type": "Eyes",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "ears-clover",
+			  "name": "Clover",
+			  "class": "Plant",
+			  "type": "Ears",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "back-pumpkin",
+			  "name": "Pumpkin",
+			  "class": "Plant",
+			  "type": "Back",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "mouth-serious",
+			  "name": "Serious",
+			  "class": "Plant",
+			  "type": "Mouth",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "horn-kestrel",
+			  "name": "Kestrel",
+			  "class": "Bird",
+			  "type": "Horn",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "tail-gravel-ant",
+			  "name": "Gravel Ant",
+			  "class": "Bug",
+			  "type": "Tail",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			}
+		  ],
+		  "__typename": "Axie"
+		},
+		{
+		  "id": "7914824",
+		  "genes": "0xa00000000614533304a0080214a5294a0863288a088220820045194604833146",
+		  "stats": {
+			"hp": 48,
+			"morale": 42,
+			"skill": 27,
+			"speed": 47
+		  },
+		  "name": "Axie #7914824",
+		  "stage": 4,
+		  "class": "Dusk",
+		  "breedCount": 0,
+		  "image": "https://storage.googleapis.com/assets.axieinfinity.com/axies/7914824/axie/axie-full-transparent.png",
+		  "title": "",
+		  "battleInfo": {
+			"banned": false,
+			"__typename": "AxieBattleInfo"
+		  },
+		  "auction": {
+			"currentPrice": "200000000000000000",
+			"currentPriceUSD": "925.47",
+			"startingPrice": "500000000000000000",
+			"endingPrice": "200000000000000000",
+			"duration": "172800",
+			"timeLeft": "0",
+			"__typename": "Auction"
+		  },
+		  "parts": [
+			{
+			  "id": "eyes-kotaro",
+			  "name": "Kotaro?",
+			  "class": "Bug",
+			  "type": "Eyes",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "ears-owl",
+			  "name": "Owl",
+			  "class": "Bird",
+			  "type": "Ears",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "back-hero",
+			  "name": "Hero",
+			  "class": "Beast",
+			  "type": "Back",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "mouth-tiny-turtle",
+			  "name": "Tiny Turtle",
+			  "class": "Reptile",
+			  "type": "Mouth",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "horn-kestrel",
+			  "name": "Kestrel",
+			  "class": "Bird",
+			  "type": "Horn",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "tail-gravel-ant",
+			  "name": "Gravel Ant",
+			  "class": "Bug",
+			  "type": "Tail",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			}
+		  ],
+		  "__typename": "Axie"
+		},
+		{
+		  "id": "7131269",
+		  "genes": "0xa0000000061443331484110214a2294a146518c6088220881465190c04833148",
+		  "stats": {
+			"hp": 56,
+			"morale": 35,
+			"skill": 27,
+			"speed": 46
+		  },
+		  "name": "Double Disabler 🥇",
+		  "stage": 4,
+		  "class": "Dusk",
+		  "breedCount": 4,
+		  "image": "https://storage.googleapis.com/assets.axieinfinity.com/axies/7131269/axie/axie-full-transparent.png",
+		  "title": "",
+		  "battleInfo": {
+			"banned": false,
+			"__typename": "AxieBattleInfo"
+		  },
+		  "auction": {
+			"currentPrice": "250000000000000000",
+			"currentPriceUSD": "1156.84",
+			"startingPrice": "250000000000000000",
+			"endingPrice": "250000000000000000",
+			"duration": "86400",
+			"timeLeft": "0",
+			"__typename": "Auction"
+		  },
+		  "parts": [
+			{
+			  "id": "eyes-scar",
+			  "name": "Scar",
+			  "class": "Reptile",
+			  "type": "Eyes",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "ears-curved-spine",
+			  "name": "Curved Spine",
+			  "class": "Reptile",
+			  "type": "Ears",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "back-green-thorns",
+			  "name": "Green Thorns",
+			  "class": "Reptile",
+			  "type": "Back",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "mouth-tiny-turtle",
+			  "name": "Tiny Turtle",
+			  "class": "Reptile",
+			  "type": "Mouth",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "horn-kestrel",
+			  "name": "Kestrel",
+			  "class": "Bird",
+			  "type": "Horn",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "tail-gravel-ant",
+			  "name": "Gravel Ant",
+			  "class": "Bug",
+			  "type": "Tail",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			}
+		  ],
+		  "__typename": "Axie"
+		},
+		{
+		  "id": "7999837",
+		  "genes": "0xa00000000708723204a2084814a4114a1064088c0881084204210804048130cc",
+		  "stats": {
+			"hp": 50,
+			"morale": 41,
+			"skill": 27,
+			"speed": 46
+		  },
+		  "name": "VIRGIN, 46 SPEED, HEADSHOT NUMBING META",
+		  "stage": 4,
+		  "class": "Dusk",
+		  "breedCount": 0,
+		  "image": "https://storage.googleapis.com/assets.axieinfinity.com/axies/7999837/axie/axie-full-transparent.png",
+		  "title": "",
+		  "battleInfo": {
+			"banned": false,
+			"__typename": "AxieBattleInfo"
+		  },
+		  "auction": {
+			"currentPrice": "250000000000000000",
+			"currentPriceUSD": "1156.84",
+			"startingPrice": "300000000000000000",
+			"endingPrice": "250000000000000000",
+			"duration": "86400",
+			"timeLeft": "0",
+			"__typename": "Auction"
+		  },
+		  "parts": [
+			{
+			  "id": "eyes-kotaro",
+			  "name": "Kotaro?",
+			  "class": "Bug",
+			  "type": "Eyes",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "ears-bubblemaker",
+			  "name": "Bubblemaker",
+			  "class": "Aquatic",
+			  "type": "Ears",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "back-snail-shell",
+			  "name": "Snail Shell",
+			  "class": "Bug",
+			  "type": "Back",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "mouth-tiny-turtle",
+			  "name": "Tiny Turtle",
+			  "class": "Reptile",
+			  "type": "Mouth",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "horn-kestrel",
+			  "name": "Kestrel",
+			  "class": "Bird",
+			  "type": "Horn",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "tail-gravel-ant",
+			  "name": "Gravel Ant",
+			  "class": "Bug",
+			  "type": "Tail",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			}
+		  ],
+		  "__typename": "Axie"
+		},
+		{
+		  "id": "7886514",
+		  "genes": "0xa0000000051863320844214414a5294a10c3194608822088146319460480194c",
+		  "stats": {
+			"hp": 51,
+			"morale": 36,
+			"skill": 27,
+			"speed": 50
+		  },
+		  "name": "10",
+		  "stage": 4,
+		  "class": "Dusk",
+		  "breedCount": 3,
+		  "image": "https://storage.googleapis.com/assets.axieinfinity.com/axies/7886514/axie/axie-full-transparent.png",
+		  "title": "",
+		  "battleInfo": {
+			"banned": false,
+			"__typename": "AxieBattleInfo"
+		  },
+		  "auction": {
+			"currentPrice": "260000000000000000",
+			"currentPriceUSD": "1203.11",
+			"startingPrice": "260000000000000000",
+			"endingPrice": "260000000000000000",
+			"duration": "86400",
+			"timeLeft": "0",
+			"__typename": "Auction"
+		  },
+		  "parts": [
+			{
+			  "id": "eyes-lucas",
+			  "name": "Lucas",
+			  "class": "Bird",
+			  "type": "Eyes",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "ears-seaslug",
+			  "name": "Seaslug",
+			  "class": "Aquatic",
+			  "type": "Ears",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "back-green-thorns",
+			  "name": "Green Thorns",
+			  "class": "Reptile",
+			  "type": "Back",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "mouth-tiny-turtle",
+			  "name": "Tiny Turtle",
+			  "class": "Reptile",
+			  "type": "Mouth",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "horn-kestrel",
+			  "name": "Kestrel",
+			  "class": "Bird",
+			  "type": "Horn",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "tail-gravel-ant",
+			  "name": "Gravel Ant",
+			  "class": "Bug",
+			  "type": "Tail",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			}
+		  ],
+		  "__typename": "Axie"
+		},
+		{
+		  "id": "6704392",
+		  "genes": "0xa0000000051443331020084a14a4294a08c5188c0884188814651942048330cc",
+		  "stats": {
+			"hp": 51,
+			"morale": 36,
+			"skill": 27,
+			"speed": 50
+		  },
+		  "name": "Axie #6704392",
+		  "stage": 4,
+		  "class": "Dusk",
+		  "breedCount": 3,
+		  "image": "https://storage.googleapis.com/assets.axieinfinity.com/axies/6704392/axie/axie-full-transparent.png",
+		  "title": "",
+		  "battleInfo": {
+			"banned": false,
+			"__typename": "AxieBattleInfo"
+		  },
+		  "auction": {
+			"currentPrice": "280000000000000000",
+			"currentPriceUSD": "1295.66",
+			"startingPrice": "280000000000000000",
+			"endingPrice": "280000000000000000",
+			"duration": "86400",
+			"timeLeft": "0",
+			"__typename": "Auction"
+		  },
+		  "parts": [
+			{
+			  "id": "eyes-sleepless",
+			  "name": "Sleepless",
+			  "class": "Aquatic",
+			  "type": "Eyes",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "ears-risky-bird",
+			  "name": "Risky Bird",
+			  "class": "Bird",
+			  "type": "Ears",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "back-green-thorns",
+			  "name": "Green Thorns",
+			  "class": "Reptile",
+			  "type": "Back",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "mouth-tiny-turtle",
+			  "name": "Tiny Turtle",
+			  "class": "Reptile",
+			  "type": "Mouth",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "horn-kestrel",
+			  "name": "Kestrel",
+			  "class": "Bird",
+			  "type": "Horn",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "tail-gravel-ant",
+			  "name": "Gravel Ant",
+			  "class": "Bug",
+			  "type": "Tail",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			}
+		  ],
+		  "__typename": "Axie"
+		},
+		{
+		  "id": "8279820",
+		  "genes": "0xa0000000071c94341043104a14a5294a106418440884184214c211020483184c",
+		  "stats": {
+			"hp": 52,
+			"morale": 35,
+			"skill": 27,
+			"speed": 50
+		  },
+		  "name": "🦄1/1🦄 Virgin GOD Disable",
+		  "stage": 4,
+		  "class": "Dusk",
+		  "breedCount": 0,
+		  "image": "https://storage.googleapis.com/assets.axieinfinity.com/axies/8279820/axie/axie-full-transparent.png",
+		  "title": "",
+		  "battleInfo": {
+			"banned": false,
+			"__typename": "AxieBattleInfo"
+		  },
+		  "auction": {
+			"currentPrice": "1000000000000000000",
+			"currentPriceUSD": "4627.35",
+			"startingPrice": "1000000000000000000",
+			"endingPrice": "1000000000000000000",
+			"duration": "86400",
+			"timeLeft": "0",
+			"__typename": "Auction"
+		  },
+		  "parts": [
+			{
+			  "id": "eyes-clear",
+			  "name": "Clear",
+			  "class": "Aquatic",
+			  "type": "Eyes",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "ears-bubblemaker",
+			  "name": "Bubblemaker",
+			  "class": "Aquatic",
+			  "type": "Ears",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "back-croc",
+			  "name": "Croc",
+			  "class": "Reptile",
+			  "type": "Back",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "mouth-tiny-turtle",
+			  "name": "Tiny Turtle",
+			  "class": "Reptile",
+			  "type": "Mouth",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "horn-kestrel",
+			  "name": "Kestrel",
+			  "class": "Bird",
+			  "type": "Horn",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "tail-gravel-ant",
+			  "name": "Gravel Ant",
+			  "class": "Bug",
+			  "type": "Tail",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			}
+		  ],
+		  "__typename": "Axie"
+		},
+		{
+		  "id": "8117575",
+		  "genes": "0xa00000000b1053331044294214a308ca086218c60884084c1045194604833084",
+		  "stats": {
+			"hp": 49,
+			"morale": 36,
+			"skill": 27,
+			"speed": 52
+		  },
+		  "name": "Top Speed Disable King",
+		  "stage": 4,
+		  "class": "Dusk",
+		  "breedCount": 0,
+		  "image": "https://storage.googleapis.com/assets.axieinfinity.com/axies/8117575/axie/axie-full-transparent.png",
+		  "title": "",
+		  "battleInfo": {
+			"banned": false,
+			"__typename": "AxieBattleInfo"
+		  },
+		  "auction": {
+			"currentPrice": "1119900000000000000",
+			"currentPriceUSD": "5182.17",
+			"startingPrice": "1119900000000000000",
+			"endingPrice": "1119900000000000000",
+			"duration": "86400",
+			"timeLeft": "0",
+			"__typename": "Auction"
+		  },
+		  "parts": [
+			{
+			  "id": "eyes-clear",
+			  "name": "Clear",
+			  "class": "Aquatic",
+			  "type": "Eyes",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "ears-owl",
+			  "name": "Owl",
+			  "class": "Bird",
+			  "type": "Ears",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "back-blue-moon",
+			  "name": "Blue Moon",
+			  "class": "Aquatic",
+			  "type": "Back",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "mouth-tiny-turtle",
+			  "name": "Tiny Turtle",
+			  "class": "Reptile",
+			  "type": "Mouth",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "horn-kestrel",
+			  "name": "Kestrel",
+			  "class": "Bird",
+			  "type": "Horn",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "tail-gravel-ant",
+			  "name": "Gravel Ant",
+			  "class": "Bug",
+			  "type": "Tail",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			}
+		  ],
+		  "__typename": "Axie"
+		},
+		{
+		  "id": "8110249",
+		  "genes": "0xa0000000030c5434102429481423214210a0188808812946044220440485314c",
+		  "stats": {
+			"hp": 50,
+			"morale": 38,
+			"skill": 27,
+			"speed": 49
+		  },
+		  "name": "Axie #8110249",
+		  "stage": 4,
+		  "class": "Dusk",
+		  "breedCount": 0,
+		  "image": "https://storage.googleapis.com/assets.axieinfinity.com/axies/8110249/axie/axie-full-transparent.png",
+		  "title": "",
+		  "battleInfo": {
+			"banned": false,
+			"__typename": "AxieBattleInfo"
+		  },
+		  "auction": {
+			"currentPrice": "1204000000000000000",
+			"currentPriceUSD": "5571.33",
+			"startingPrice": "1204000000000000000",
+			"endingPrice": "1204000000000000000",
+			"duration": "86400",
+			"timeLeft": "0",
+			"__typename": "Auction"
+		  },
+		  "parts": [
+			{
+			  "id": "eyes-sleepless",
+			  "name": "Sleepless",
+			  "class": "Aquatic",
+			  "type": "Eyes",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "ears-gill",
+			  "name": "Gill",
+			  "class": "Aquatic",
+			  "type": "Ears",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "back-garish-worm",
+			  "name": "Garish Worm",
+			  "class": "Bug",
+			  "type": "Back",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "mouth-toothless-bite",
+			  "name": "Toothless Bite",
+			  "class": "Reptile",
+			  "type": "Mouth",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "horn-kestrel",
+			  "name": "Kestrel",
+			  "class": "Bird",
+			  "type": "Horn",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "tail-gravel-ant",
+			  "name": "Gravel Ant",
+			  "class": "Bug",
+			  "type": "Tail",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			}
+		  ],
+		  "__typename": "Axie"
+		},
+		{
+		  "id": "4876533",
+		  "genes": "0xa00000000b1853220c4308c20c2308840c4508ca08802904044330c604821004",
+		  "stats": {
+			"hp": 54,
+			"morale": 41,
+			"skill": 27,
+			"speed": 42
+		  },
+		  "name": "Gravel Kestrel",
+		  "stage": 4,
+		  "class": "Dusk",
+		  "breedCount": 3,
+		  "image": "https://storage.googleapis.com/assets.axieinfinity.com/axies/4876533/axie/axie-full-transparent.png",
+		  "title": "",
+		  "battleInfo": {
+			"banned": false,
+			"__typename": "AxieBattleInfo"
+		  },
+		  "auction": {
+			"currentPrice": "1500000000000000000",
+			"currentPriceUSD": "6941.03",
+			"startingPrice": "1500000000000000000",
+			"endingPrice": "1500000000000000000",
+			"duration": "86400",
+			"timeLeft": "0",
+			"__typename": "Auction"
+		  },
+		  "parts": [
+			{
+			  "id": "eyes-confused",
+			  "name": "Confused",
+			  "class": "Plant",
+			  "type": "Eyes",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "ears-clover",
+			  "name": "Clover",
+			  "class": "Plant",
+			  "type": "Ears",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "back-garish-worm",
+			  "name": "Garish Worm",
+			  "class": "Bug",
+			  "type": "Back",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "mouth-serious",
+			  "name": "Serious",
+			  "class": "Plant",
+			  "type": "Mouth",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "horn-kestrel",
+			  "name": "Kestrel",
+			  "class": "Bird",
+			  "type": "Horn",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			},
+			{
+			  "id": "tail-gravel-ant",
+			  "name": "Gravel Ant",
+			  "class": "Bug",
+			  "type": "Tail",
+			  "specialGenes": null,
+			  "__typename": "AxiePart"
+			}
+		  ],
+		  "__typename": "Axie"
+		}
+	  ],
+	  "__typename": "Axies"
+	}
+  }
+}
