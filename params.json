@@ -1,0 +1,57 @@
+[
+  {
+	"name": "Dusk-----",
+	"content": {
+	  "from": 0,
+	  "size": 30,
+	  "auctionType": "Sale",
+	  "sort": "PriceAsc",
+	  "criteria": {
+		"breedCount": [
+		  0,
+		  7
+		],
+		"numMystic": [
+		  0,
+		  1,
+		  2,
+		  3,
+		  4,
+		  5,
+		  6
+		],
+		"pureness": [
+		  1,
+		  2,
+		  3,
+		  4,
+		  5,
+		  6
+		],
+		"classes": [
+		  "Dusk"
+		],
+		"hp": [
+		  27,
+		  61
+		],
+		"morale": [
+		  27,
+		  61
+		],
+		"speed": [
+		  27,
+		  61
+		],
+		"skill": [
+		  27,
+		  61
+		],
+		"parts": [
+		  "tail-gravel-ant",
+		  "horn-kestrel"
+		]
+	  }
+	}
+  }
+]
