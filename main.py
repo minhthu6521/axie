@@ -1,3 +1,4 @@
+from copy import deepcopy
 import datetime
 import json
 import time
@@ -35,14 +36,77 @@ def get_details(param):
 
 REAL_PRICE = lambda x: float(x["auction"]["currentPriceUSD"])
 
+BASE_VARIABLES = {
+    "from": 0,
+    "size": 30,
+    "auctionType": "Sale",
+    "sort": "PriceAsc",
+    "criteria": {
+        "breedCount": [
+            0,
+            7
+        ],
+        "numMystic": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "pureness": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "classes": [
+        ],
+        "hp": [
+            27,
+            61
+        ],
+        "morale": [
+            27,
+            61
+        ],
+        "speed": [
+            27,
+            61
+        ],
+        "skill": [
+            27,
+            61
+        ],
+        "parts": [
+        ]
+    }
+}
+
+
+def url_to_param(url):
+    query_param = urllib.parse.parse_qs(url.split("?")[1])
+    param = deepcopy(BASE_VARIABLES)
+    param["criteria"]["parts"] = query_param["parts"][0].split(",")
+    param["criteria"]["classes"] = [c.capitalize() for c in query_param["classes"][0].split(",")]
+    if query_param.get("hp"):
+        param["criteria"]["hp"][0] = query_param["hp"]
+    if query_param.get("speed"):
+        param["criteria"]["speed"][0] = query_param["speed"]
+    return param
+
 
 def get_all():
-    params = open("params.json")
-    params = json.loads(params.read())
-    for param in params:
+    all_links = open("urls.json")
+    all_links = json.loads(all_links.read())
+    for link in all_links:
         print("-------------------------------")
-        print(f"Request for {param['name']} started")
-        param = param["content"]
+        print(f"Request for {link['name']} started")
+        param = url_to_param(link["url"])
+        print(param)
         details = get_details(param)
         if (REAL_PRICE(details[1]) - REAL_PRICE(details[0])) >= (REAL_PRICE(details[1]) / 10):
             import winsound
@@ -57,7 +121,7 @@ def get_all():
             }
             html_params = urllib.parse.urlencode(html_params)
             print(f"{HTML_URL}?{html_params}")
-            print(f"Difference:{REAL_PRICE(details[1]) - REAL_PRICE(details[0])}")
+            print(f"Difference: {REAL_PRICE(details[1]) - REAL_PRICE(details[0])}")
             current = int(details[0]['auction']['currentPrice']) / 10 ** 18
             print(f"Cheapest one price: {current}")
         print("Request end")
