@@ -58,6 +58,7 @@ def get_all():
             html_params = urllib.parse.urlencode(html_params)
             print(HTML_URL + html_params)
             print(f"Difference:{REAL_PRICE(details[1]) - REAL_PRICE(details[0])}")
+        time.sleep(3)
         print("Request end")
         print("-------------------------------")
 
