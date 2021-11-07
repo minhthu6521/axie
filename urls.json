@@ -1,4 +1,10 @@
-[{
-  "name": "Test",
-  "url": "https://www.axielegend.com/?parts=tail-gravel-ant,horn-kestrel&classes=dusk"
-}]
+[
+  {
+    "name": "Test",
+    "url": "https://www.axielegend.com/?parts=tail-gravel-ant,horn-kestrel&classes=dusk"
+  },
+  {
+    "name": "Beast 47",
+    "url": "https://www.axielegend.com/?parts=tail-hare,horn-pocky,horn-umaibo,horn-dual-blade,back-jaguar,back-risky-beast,back-hamaya,mouth-risky-fish,mouth-goda,mouth-doubletalk,mouth-mr-doubletalk,mouth-cute-bunny,mouth-kawaii,back-furball,horn-arco,back-hero,horn-pliers,horn-little-branch,horn-winter-branch&classes=beast,mech&speed=46"
+  }
+]

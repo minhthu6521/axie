@@ -93,9 +93,9 @@ def url_to_param(url):
     param["criteria"]["parts"] = query_param["parts"][0].split(",")
     param["criteria"]["classes"] = [c.capitalize() for c in query_param["classes"][0].split(",")]
     if query_param.get("hp"):
-        param["criteria"]["hp"][0] = query_param["hp"]
+        param["criteria"]["hp"][0] = int(query_param["hp"][0])
     if query_param.get("speed"):
-        param["criteria"]["speed"][0] = query_param["speed"]
+        param["criteria"]["speed"][0] = int(query_param["speed"][0])
     return param
 
 
@@ -106,7 +106,6 @@ def get_all():
         print("-------------------------------")
         print(f"Request for {link['name']} started")
         param = url_to_param(link["url"])
-        print(param)
         details = get_details(param)
         if (REAL_PRICE(details[1]) - REAL_PRICE(details[0])) >= (REAL_PRICE(details[1]) / 10):
             import winsound
